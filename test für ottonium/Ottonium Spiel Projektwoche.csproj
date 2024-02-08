@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>test_für_ottonium</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="E:\Max krams\Schule\FACH OBER SCHULE\PROJEKTWOCHEE\projektwoche\Visual Studio Projekt CODE\PROJEKTWOCHE PROJEKT\ottonium projekt nochmla neu selber\Spielfeld.cs" Link="Spielfeld.cs" />
+  </ItemGroup>
+
+</Project>
